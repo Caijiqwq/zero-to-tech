@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200/4A90E2/FFFFFF?text=Proj" alt="项目 Logo" width="200" height="200">
+  <img src="https://picsum.photos/seed/your-seed/200/200" alt="项目 Logo" width="200" height="200">
   <h1>🚀 项目中文名称</h1>
   <p><strong>Project English Name</strong> — 一句话响亮的口号/副标题</p>
 
